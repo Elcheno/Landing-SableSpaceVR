@@ -112,7 +112,7 @@ lottie-player {
         height: fit-content !important;
     }
 
-    #carousel-parent-items{
+    .carousel-parent-items{
         height: auto;
         min-height: auto;
     }
