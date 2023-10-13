@@ -87,7 +87,7 @@ border-radius: 50%;
         margin: 0!important;
         margin-bottom: 3rem!important;
         /* background-attachment: scroll!important; */
-        background-size: 100em;
+        background-size: cover;
     }
 
     .dev-info{
