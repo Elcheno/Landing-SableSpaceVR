@@ -86,7 +86,7 @@ border-radius: 50%;
     body{
         margin: 0!important;
         margin-bottom: 3rem!important;
-        /* background-attachment: scroll!important; */
+        background-attachment: scroll!important;
     }
 
     .dev-info{
