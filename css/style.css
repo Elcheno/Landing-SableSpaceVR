@@ -94,3 +94,24 @@ border-radius: 50%;
         height: fit-content!important;
     }
 }
+
+@media only screen and (width <= 425px) {
+    #ies-img{
+        max-width: 325px!important;
+        max-height: 47px!important;
+    }
+}
+
+@media only screen and (width <= 375px) {
+    #ies-img{
+        max-width: 275px!important;
+        max-height: 40px!important;
+    }
+}
+
+@media only screen and (width <= 320px) {
+    #ies-img{
+        max-width: 225px!important;
+        max-height: 35px!important;
+    }
+}
