@@ -114,7 +114,10 @@ lottie-player {
 
     .carousel-parent-items{
         height: auto;
-        min-height: auto;
+    }
+
+    #dowloadSection{
+        margin-top: 3em;
     }
 }
 
