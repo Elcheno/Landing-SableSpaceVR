@@ -13,6 +13,7 @@ body {
     background-attachment: fixed;
     background-color: rgba(0, 0, 0, 0.200);
     background-blend-mode: darken;
+    background-size: cover;
 }
 
 /* img {
